@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-The XRMind team is dedicated to exploring cutting-edge domains in XR+AI, with core focuses on:
+XRMind is a cutting-edge research team dedicated to pioneering the integration of Extended Reality (XR) and Artificial Intelligence (AI). Leveraging multidisciplinary strengths in computer graphics, cognitive science, and human-computer interaction, we aim to construct secure and controllable next-generation intelligent XR interaction systems. The team strategically focuses on three key technological directions: generative content production, perception-interaction enhancement, and cognitive mechanism research, driving the evolution of XR from tool-oriented layers toward an intelligent ecosystem:
 
 - AI-Generated Content (AIGC) Technology: Including talking face synthesis, human motion generation, and generative agents.
 - XR Perception-Interaction Technology: Featuring physics-driven 3D Gaussian splatting and speech-interactive visual large models.
