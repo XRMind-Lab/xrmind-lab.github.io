@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 site_theme               : "default"
 title                    : "XRMind Laboratory"
 title_separator          : "-"
@@ -22,7 +22,7 @@ repository               : "XRMind-Lab/xrmind-lab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "xrmind-logo.png"
   name             : "XRMind Laboratory"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
