@@ -15,4 +15,4 @@ The XRMind team is dedicated to exploring cutting-edge domains in XR+AI, with co
 Our mission is to pioneer secure architectures for intelligent XR interaction ecosystems.
 
 **News**
-- ICLR 2025 accepted paper: Cafe-Talk: Generating 3D Talking Face Animation with Multimodal Coarse- and Fine-grained Control.
+- [2025-01-22] ICLR 2025 accepted paper: Cafe-Talk: Generating 3D Talking Face Animation with Multimodal Coarse- and Fine-grained Control.
