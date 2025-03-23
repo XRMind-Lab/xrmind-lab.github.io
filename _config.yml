@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 site_theme               : "default"
 title                    : "XRMind Laboratory"
 title_separator          : "-"
@@ -25,7 +25,7 @@ author:
   avatar           : "xrmind-logo.png"
   name             : "XRMind Laboratory"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "The XRMind research team's academic pursuits encompass AIGC, MLLM, XR Embodied AI, and interdisciplinary research of XR and cognitive science."
   location         : "Beijing, China"
   employer         : "BUAA & ZGCLab"
   uri              : # URL
