@@ -9,9 +9,9 @@ redirect_from:
 
 The XRMind team is dedicated to exploring cutting-edge domains in XR+AI, with core focuses on:
 
-AI-Generated Content (AIGC) Technology: Including talking face synthesis, human motion generation, and generative agents.
-XR Perception-Interaction Technology: Featuring physics-driven 3D Gaussian splatting and speech-interactive visual large models.
-Interdisciplinary XR-Cognition Research: Coverning context-aware XR environment construction, situational cognitive assessment, and contextual psychological evaluation frameworks.
+- AI-Generated Content (AIGC) Technology: Including talking face synthesis, human motion generation, and generative agents.
+- XR Perception-Interaction Technology: Featuring physics-driven 3D Gaussian splatting and speech-interactive visual large models.
+- Interdisciplinary XR-Cognition Research: Coverning context-aware XR environment construction, situational cognitive assessment, and contextual psychological evaluation frameworks.
 Our mission is to pioneer secure architectures for intelligent XR interaction ecosystems.
 
 News
